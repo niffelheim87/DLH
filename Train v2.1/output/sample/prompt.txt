@@ -1,0 +1,6 @@
+# prompt 1
+dstrpndlhstr, toon \(style\), close-up, 1boy, solo, looking at viewer, closed mouth, sweatdrop, blue eyes, blonde hair, spiked hair --n (low quality, worst quality), bad anatomy, bad composition, poor, low effort --w 768 --h 768 --d 4 --l 7 --s 40
+
+# prompt 2
+dstrpndlhstr, 1girl, solo, long hair, breasts, looking at viewer, smile, blonde hair, red eyes, dress, cleavage, bare shoulders, jewelry, upper body, nail polish, bracelet, colored skin, pink skin --n (low quality, worst quality), bad anatomy, bad composition, poor, low effort --w 768 --h 768 --d 4 --l 7 --s 40
+
